@@ -23,7 +23,6 @@
         }
     },
     "replace": {
-        "SebastianChristoph/sc_feuserlist": "self.version",
         "typo3-ter/sc_feuserlist": "self.version"
     }
 }
